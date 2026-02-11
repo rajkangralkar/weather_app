@@ -30,9 +30,13 @@ It provides real-time weather information and a 5-day forecast for any location 
 ## 📂 Project Structure
 
 WeatherNow/
+
 │
+
 ├── app.py # Main Streamlit application
+
 ├── README.md # Project documentation
+
 └── .gitignore # Ignored files
 
 
