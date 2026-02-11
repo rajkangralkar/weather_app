@@ -1,0 +1,17 @@
+# Node
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# VS Code
+.vscode/
+extensions/
+
+# OS files
+.DS_Store
+Thumbs.db
